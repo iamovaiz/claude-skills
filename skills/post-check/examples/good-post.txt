@@ -1,0 +1,13 @@
+Last month a client asked why their order sheet took three days to approve.
+
+We traced it. Four people signed the same form, and two of them only checked the total.
+
+So we cut it to two signatures and put the total on page one. Approval now takes an afternoon.
+
+The fix wasn't software. It was asking who actually reads the form, and why.
+
+If your approvals crawl, list every signature and write next to each one what that person checks. Cross out the ones that check nothing new.
+
+What's the slowest form in your team right now?
+
+#operations #processdesign

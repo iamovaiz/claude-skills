@@ -1,0 +1,7 @@
+# Copy to ./offlimits.txt or ~/.config/post-check/offlimits.txt and edit.
+# One rule per line:  regex | label shown in the report
+# Matching ignores case. Put claims you have ruled out and names you must not publish here.
+\b500\s?k\b | 500K revenue claim (not provable)
+\$\s?3\s?(m|million)\b | $3M claim
+\bacme\s?corp\b | client name (no publishing permission)
+\b(salar(y|ies)|payroll)\b.*\d | pay figure

@@ -1,0 +1,6 @@
+.DS_Store
+__pycache__/
+attendance_out/
+offl*.txt
+!offlimits.example.txt
+post.txt
