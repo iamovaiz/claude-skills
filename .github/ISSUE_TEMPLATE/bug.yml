@@ -1,0 +1,27 @@
+name: Bug report
+description: A skill or script did something wrong
+labels: [bug]
+body:
+  - type: dropdown
+    id: skill
+    attributes:
+      label: Which skill?
+      options: [post-check, zkteco-attendance-import, staged-release-supabase-vercel, supabase-vercel-ops-checks, project-board-sync]
+    validations:
+      required: true
+  - type: textarea
+    id: what
+    attributes:
+      label: What happened, and what did you expect?
+    validations:
+      required: true
+  - type: textarea
+    id: repro
+    attributes:
+      label: How can we reproduce it?
+      description: Command, input file and output. Use invented data. Never paste real employee data, keys or passwords.
+  - type: input
+    id: env
+    attributes:
+      label: Where did you run it?
+      placeholder: Claude Code on macOS, Claude desktop app, Python 3.12...

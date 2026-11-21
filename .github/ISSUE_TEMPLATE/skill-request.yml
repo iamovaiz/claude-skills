@@ -1,0 +1,21 @@
+name: Skill idea
+description: Suggest a skill, or offer one you built
+labels: [skill-idea]
+body:
+  - type: textarea
+    id: problem
+    attributes:
+      label: What went wrong without it?
+      description: The real problem this skill would prevent. Skills here come from real incidents, not wish lists.
+    validations:
+      required: true
+  - type: textarea
+    id: idea
+    attributes:
+      label: What should Claude do differently?
+  - type: checkboxes
+    id: build
+    attributes:
+      label: Building it yourself?
+      options:
+        - label: I'd like to open a pull request for this
