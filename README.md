@@ -89,6 +89,6 @@ The license covers the code and text in this repo. It does not give permission t
 ---
 
 <p align="center">
-  Made by <a href="https://iamovaiz.com"><b>I AM OVAIZ</b></a>. We build business systems for factories, retailers and e-commerce operators.<br>
+  Made by <a href="https://iamovaiz.com"><b>I AM OVAIZ</b></a>, maintained by <a href="https://github.com/ovaizrana">@ovaizrana</a>. We build business systems for factories, retailers and e-commerce operators.<br>
   If a skill saved you time, a star helps other people find it.
 </p>
