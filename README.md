@@ -41,6 +41,8 @@ Issues and pull requests are welcome. Test data must be invented: no real names,
 
 ## License
 
-MIT. See [LICENSE](LICENSE).
+Apache License 2.0. See [LICENSE](LICENSE) and [NOTICE](NOTICE). You can use, change and redistribute these skills, including commercially. Keep the LICENSE and NOTICE files with any copy.
+
+The license covers the code and text in this repo. It does not give permission to use the "I AM OVAIZ" name, the OV logo or other I AM OVAIZ branding, except to say where the skills came from.
 
 Made by [I AM OVAIZ](https://iamovaiz.com). We build business systems for factories, retailers and e-commerce operators.
