@@ -5,14 +5,14 @@
 <h1 align="center">Claude Skills for people who run real businesses</h1>
 
 <p align="center">
-  Five Claude Code skills taken from live business systems: a factory HR and payroll system, client online stores, and the release work behind them.<br>
+  Seven Claude Code skills taken from live business systems: a factory HR and payroll system, client online stores, and the release work behind them.<br>
   Each one exists because something broke without it.
 </p>
 
 <p align="center">
   <a href="LICENSE"><img alt="License: Apache 2.0" src="https://img.shields.io/badge/license-Apache%202.0-E8FF3B?labelColor=0A0A0A"></a>
   <a href="https://github.com/iamovaiz/claude-skills/actions/workflows/checks.yml"><img alt="Checks" src="https://github.com/iamovaiz/claude-skills/actions/workflows/checks.yml/badge.svg"></a>
-  <img alt="Skills: 5" src="https://img.shields.io/badge/skills-5-E8FF3B?labelColor=0A0A0A">
+  <img alt="Skills: 7" src="https://img.shields.io/badge/skills-7-E8FF3B?labelColor=0A0A0A">
   <img alt="Works with Claude Code and Claude apps" src="https://img.shields.io/badge/works%20with-Claude%20Code%20%7C%20Claude%20apps-E8FF3B?labelColor=0A0A0A">
 </p>
 
@@ -33,6 +33,8 @@ Each skill below is the written-down fix for one of those. They are plain Markdo
 | [**staged-release-supabase-vercel**](skills/staged-release-supabase-vercel) | You ship changes to a Supabase + Vercel app with separate staging and production, and want proof the live site serves the new version | `served_version.py` |
 | [**supabase-vercel-ops-checks**](skills/supabase-vercel-ops-checks) | You set up a new Supabase project, run migrations remotely, or a deploy looks fine but the site is not | checklist |
 | [**project-board-sync**](skills/project-board-sync) | You want Claude to read the project plan before working and suggest what is done, with evidence, when it stops | template |
+| [**one-step-command-coach**](skills/one-step-command-coach) | You run the commands Claude gives you and want one labelled step at a time, checked by evidence before the next | example session |
+| [**pre-sales-scope-guard**](skills/pre-sales-scope-guard) | A prospect keeps asking for proposals, research or demos before paying, and you want effort matched to the deal stage | templates |
 
 ## Install
 

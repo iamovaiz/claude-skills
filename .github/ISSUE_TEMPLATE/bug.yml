@@ -6,7 +6,7 @@ body:
     id: skill
     attributes:
       label: Which skill?
-      options: [post-check, zkteco-attendance-import, staged-release-supabase-vercel, supabase-vercel-ops-checks, project-board-sync]
+      options: [post-check, zkteco-attendance-import, staged-release-supabase-vercel, supabase-vercel-ops-checks, project-board-sync, one-step-command-coach, pre-sales-scope-guard]
     validations:
       required: true
   - type: textarea

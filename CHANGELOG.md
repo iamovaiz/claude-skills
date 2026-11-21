@@ -1,5 +1,12 @@
 # Changelog
 
+## v1.1.0 (2026-11-21)
+
+Two new skills:
+
+- **one-step-command-coach**: guide someone who runs commands themselves, one labelled step at a time (Terminal, Claude Code, SQL editor with the database named), with "done" confirmed by evidence
+- **pre-sales-scope-guard**: keep pitch and proposal work in proportion to the deal stage, list the facts a price needs, and offer paid discovery instead of free consulting
+
 ## v1.0.0 (2026-11-21)
 
 First public release, five skills:
@@ -10,4 +17,4 @@ First public release, five skills:
 - **supabase-vercel-ops-checks**: setup and health checklist for Supabase and Vercel apps
 - **project-board-sync**: read the project board before work, suggest evidence-backed updates after
 
-Each skill is attached below as a zip for upload to Claude apps.
+Each skill is attached to its release as a zip for upload to Claude apps.
